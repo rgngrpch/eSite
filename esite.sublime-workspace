@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"profileAdmin"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"the",
+				"the_question"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"su",
+				"subjecct"
+			],
+			[
+				"l",
+				"learning_rate"
+			],
+			[
+				"data",
+				"data_m"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n\"review_id\":\"NxL8SIC5yqOdnlXCg18IBg\",\n\"user_id\":\"KpkOkG6RIf4Ra25Lhhxf1A\",\n\"business_id\":\"2aFiy99vNLklCx3T_tGS9A\",\n\"stars\":5,\n\"date\":\"2011-10-10\",\n\"text\":\"If you enjoy service by someone who is as competent as he is personable, I would recommend Corey Kaplan highly. The time he has spent here has been very productive and working with him educational and enjoyable. I hope not to need him again (though this is highly unlikely) but knowing he is there if I do is very nice. By the way, I'm not from El Centro, CA. but Scottsdale, AZ.\",\n\"useful\":0,\n\"funny\":0,\n\"cool\":0,\n\"type\":\"review\"\n}\n\n\"review_id\", \"user_id\", \"business_id\", \"stars\", \"date\", \"text\", \"useful\", \"funny\", \"cool\", \"type\"",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/rakshitchoudharygc/projects/tryTen/src/eSite/settings.py",
+		"/Users/rakshitchoudharygc/projects/tryTen/src/eSite/urls.py",
+		"/Users/rakshitchoudharygc/projects/tryTen/src/profiles/models.py",
+		"/Users/rakshitchoudharygc/projects/tryTen/src/profiles/admin.py",
+		"/Users/rakshitchoudharygc/Desktop/Yelp Project/yelp.py",
+		"/Users/rakshitchoudharygc/Desktop/Yelp Project/convert_json_to_csv.py",
+		"/Users/rakshitchoudharygc/Desktop/Yelp Project/j2c.py",
+		"/Users/rakshitchoudharygc/Desktop/Yelp Project/g2.py",
+		"/Users/rakshitchoudharygc/Desktop/Yelp Project/g1.py",
+		"/Users/rakshitchoudharygc/Desktop/Proj/1.py",
+		"/Users/rakshitchoudharygc/projects/mysite/graph/templates/graph/home.html",
+		"/Users/rakshitchoudharygc/projects/mysite/graph/templates/graph/includes/htmlsnippet.html",
+		"/Users/rakshitchoudharygc/projects/mysite/mysite/urls.py",
+		"/Users/rakshitchoudharygc/projects/mysite/graph/templates/graph/header.html",
+		"/Users/rakshitchoudharygc/projects/mysite/mysite/settings.py",
+		"/Users/rakshitchoudharygc/projects/mysite/graph/urls.py",
+		"/Users/rakshitchoudharygc/projects/mysite/graph/views.py",
+		"/Users/rakshitchoudharygc/projects/mysite/webapp/views.py",
+		"/Users/rakshitchoudharygc/projects/mysite/webapp/urls.py",
+		"/Users/rakshitchoudharygc/projects/mysite/polls/urls.py",
+		"/Users/rakshitchoudharygc/projects/mysite/polls/views.py",
+		"/Users/rakshitchoudharygc/Desktop/2.py",
+		"/Users/rakshitchoudharygc/Desktop/1.py",
+		"/Users/rakshitchoudharygc/Desktop/ml.py",
+		"/Users/rakshitchoudharygc/Desktop/restful.py",
+		"/Users/rakshitchoudharygc/bot/app.js",
+		"/Users/rakshitchoudharygc/Desktop/app.js",
+		"/Users/rakshitchoudharygc/Desktop/test.py",
+		"/Users/rakshitchoudharygc/Desktop/NLP Final Project/twitter_sentiment_analyzer.py",
+		"/Users/rakshitchoudharygc/Downloads/tensorflow_speech_recognition_demo-master/README.md",
+		"/Users/rakshitchoudharygc/Downloads/tensorflow_chatbot/execute.py",
+		"/Users/rakshitchoudharygc/Downloads/tensorflow_chatbot/env_setup.sh",
+		"/Users/rakshitchoudharygc/Downloads/tensorflow_chatbot/data_utils.py",
+		"/Users/rakshitchoudharygc/Downloads/tensorflow_chatbot/__init__.py",
+		"/Users/rakshitchoudharygc/Desktop/mchatbot.py",
+		"/Users/rakshitchoudharygc/Desktop/DM Projects/Christopher Kent/preparation.py",
+		"/Volumes/RC'S DRIVE/DM Projects/4118Project Kyle Drennen/sentiment_analyzer.ipynb",
+		"/Users/rakshitchoudharygc/Documents/ML Project Spring 2017/1.py",
+		"/Users/rakshitchoudharygc/Documents/1.py",
+		"/Users/rakshitchoudharygc/Documents/2.py",
+		"/Users/rakshitchoudharygc/Desktop/assignment-5.py",
+		"/Users/rakshitchoudharygc/Downloads/Dictionary.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/max_entropy_classifier.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/naive_bayes_classifier.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/get_twitter_data.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/webpy-webpy-0eee9b2/README.md",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/twitter_sentiment.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/baseline_classifier.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/analyze.py",
+		"/Users/rakshitchoudharygc/Downloads/Twitter SA/README.md",
+		"/Users/rakshitchoudharygc/libsvm-3.22/python/svm.py",
+		"/Users/rakshitchoudharygc/Documents/NLP Project/nlpp.py",
+		"/Users/rakshitchoudharygc/libsvm-3.22/python/svmutil.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file",
+			"personal",
+			"build",
+			"raw_input",
+			"svm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								687,
+								687
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "esite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
